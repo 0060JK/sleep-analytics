@@ -1,0 +1,11 @@
+{
+  "model": "logistic_regression",
+  "cv_f1_macro": 0.588,
+  "good_sleeper_median": {
+    "sleep_hours_per_night": 7.5,
+    "sleep_latency_minutes": 22.0,
+    "number_of_night_wakeups": 1.0,
+    "bedtime_screen_time_minutes": 45.0,
+    "stress_score": 6.0
+  }
+}
